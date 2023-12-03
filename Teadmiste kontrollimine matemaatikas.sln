@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Teadmiste kontrollimine matemaatikas", "Teadmiste kontrollimine matemaatikas\Teadmiste kontrollimine matemaatikas.pyproj", "{73AB4FBC-E64E-46CB-B084-73E8A75F9425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73AB4FBC-E64E-46CB-B084-73E8A75F9425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AB4FBC-E64E-46CB-B084-73E8A75F9425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB28A1D2-DCEA-432F-9AF0-26B9745F47C9}
+	EndGlobalSection
+EndGlobal
